@@ -19,6 +19,8 @@ This project is an extension of Project 1. Project 2 creates a 3D Map, visualizi
 
 ## Result
 
+![](https://github.com/pammoon14/Texas3D/blob/main/image/3D_labeled_screenshot_uninsured_map.png)
+
 ![](https://github.com/pammoon14/Texas3D/blob/main/video/GIF_Texas3D_video1.gif)
 
 ![](https://github.com/pammoon14/Texas3D/blob/main/video/ezgif.com-gif-maker.gif)
