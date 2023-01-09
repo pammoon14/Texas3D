@@ -14,7 +14,7 @@ This project is an extension of Project 1. Project 2 creates a 3D Map, visualizi
 ## Data Source
 **Texas data:** PLACES Local Data for Better Health, [County Data 2022 release](https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb)
 
-**Code Snippets:** This project draws inspiration from  visualizations by [Spencer Schien](https://github.com/Pecners), [cyda](https://github.com/cydalytics/HK_Properties_Price_Distribution), and [@researchremora](https://twitter.com/search?lang=en&q=%23rayshader). The project was completed using the rayshader R package by [@tylermorganwall](https://twitter.com/tylermorganwall).
+**Code Snippets:** The project was completed using the rayshader R package by [@tylermorganwall](https://twitter.com/tylermorganwall). Special thanks to [Spencer Schien](https://github.com/Pecners), [cyda](https://github.com/cydalytics/HK_Properties_Price_Distribution), and [@researchremora](https://twitter.com/search?lang=en&q=%23rayshader) for the tutorials and inspirations. Code snippets for rendering videos are credited to [cyda](https://github.com/cydalytics/HK_Properties_Price_Distribution/blob/master/README.md).
 
 
 ## Result
