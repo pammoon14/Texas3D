@@ -16,8 +16,14 @@ This project is an extension of Project 1. Project 2 creates a 3D Map, visualizi
 
 **Code Snippets:** This project draws inspiration from  visualizations by [Spencer Schien](https://github.com/Pecners), [cyda](https://github.com/cydalytics/HK_Properties_Price_Distribution), and [@researchremora](https://twitter.com/search?lang=en&q=%23rayshader). The project was completed using the rayshader R package by [@tylermorganwall](https://twitter.com/tylermorganwall).
 
+
 ## Result
 
-![](https://github.com/pammoon14/Texas3D/blob/main/video/3DUninsuredVideo2.mp4)
-![](https://github.com/pammoon14/Texas3D/blob/main/video/Texas3DUninsuredVideo1.mp4)
+![](https://github.com/pammoon14/Texas3D/blob/main/video/GIF_Texas3D_video1.gif)
+
+![](https://github.com/pammoon14/Texas3D/blob/main/video/ezgif.com-gif-maker.gif)
+
+
+
+
 
