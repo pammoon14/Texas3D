@@ -1,5 +1,5 @@
 
-# Project 2: Rendering 3D Map using Rayshader Package in R
+# Project 2: [Rendering 3D Map using Rayshader Package in R](https://github.com/pammoon14/Texas3D)
 
 ## Description
 This project is an extension of Project 1. Project 2 creates a 3D Map, visualizing the percentage of uninsured people in Texas by county (2020), using data from the CDC's PLACES 500 Cities Project. The 3D visualization allows for an immersive and dynamic way to explore and understand population density data. 
